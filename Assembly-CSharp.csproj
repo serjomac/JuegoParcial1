@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\BoardManager.cs" />
      <Compile Include="Assets\Scripts\Candy.cs" />
+     <Compile Include="Assets\Scripts\GUIManager.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/Users/jonathanmacias/Documents/Jonathan/Espol/Videjuegos/Juego primer parcial/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>

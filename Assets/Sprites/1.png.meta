@@ -1,12 +1,12 @@
 fileFormatVersion: 2
-guid: 117fa460597104c1e8dfc50703b11203
+guid: 9ac71eccbcab2453091df6cc464acabd
 TextureImporter:
   fileIDToRecycleName:
     21300000: background_1
     21300002: background_2
     21300004: background_3
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -84,7 +84,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
-    buildTarget: WebGL
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -101,18 +112,18 @@ TextureImporter:
       name: background_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 59
+        x: 50
+        y: 54
         width: 1125
         height: 2436
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4a4eaf0b9d57942d79757bcc314c11bb
+      spriteID: 729e21d3c171e4947917b943734c1f28
       vertices: []
       indices: 
       edges: []
@@ -121,18 +132,18 @@ TextureImporter:
       name: background_2
       rect:
         serializedVersion: 2
-        x: 1220
-        y: 59
+        x: 1225
+        y: 54
         width: 1125
         height: 2436
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ee0364b9afd94bc0a9bedced36aa4d7
+      spriteID: 710fcac4fe7b9488bb67d68fc8363ea1
       vertices: []
       indices: 
       edges: []
@@ -146,13 +157,13 @@ TextureImporter:
         width: 1125
         height: 2436
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 851359f898815497cbd2a5d5b92e9eff
+      spriteID: 04ac3c70c95ea44fa8a1587a50ff922e
       vertices: []
       indices: 
       edges: []
@@ -160,7 +171,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: ab39d9daa43f44221ab203911016b5da
+    spriteID: 947ec6db67f4148afa79cea83221a971
     vertices: []
     indices: 
     edges: []
